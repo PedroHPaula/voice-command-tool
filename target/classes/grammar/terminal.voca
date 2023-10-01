@@ -1,0 +1,135 @@
+% NS_B
+<s> sil
+
+% NS_E
+</s> sil
+
+% ALPHANUM_KEYS 
+ENTER                   eh n t er
+SPACE                   s p ey s
+
+% ALT_KEYWORD
+ALT                     aa l t
+
+% ARROW_KEYS
+UP                      ah p
+UPPER                   ah p er
+RIGHT                   r ay t
+DOWN                    d aw n
+LEFT                    l eh f t
+
+% CAPS_KEYWORD
+CAPS                    k ae p s
+
+% COMMAND_KEYWORD
+COMMAND                 k ah m ae n d
+
+% CONTROL_KEYS
+ESCAPE                  ih s k ey p
+PRINT                   p r ih n t
+SCREEN                  s k r iy n
+SCROLL                  s k r ow l
+PAUSE                   p ao z
+BREAK                   b r ey k
+MENU                    m eh n y uw
+
+% CONTROL_KEYWORD
+CONTROL                 k ah n t r ow l
+
+% CONTROL_NAVIGATION_KEYS
+WINDOWS                 w ih n d ow z
+SUPER                   s uw p er
+
+% CONTROL_KEY_ACTIONS
+CLEAR                   k l ih r
+CLIP                    k l ih p
+COPY                    k aa p iy
+CUT                     k ah t
+PASTE                   p ey s t
+SAVE                    s ey v
+SEARCH                  s er ch
+SELECT                  s ah l eh k t
+UNDO                    ah n d uw
+
+% DIGITS
+ZERO                    z iy r ow
+ONE                     w ah n
+TWO                     t uw
+THREE                   th r iy
+FOUR                    f ao r
+FIVE                    f ay v
+SIX                     s ih k s
+SEVEN                   s eh v ah n
+EIGHT                   ey t
+NINE                    n ay n
+
+% HOLD_KEYWORD
+HOLD                    hh ow l d
+
+% NAVIGATION_KEYS
+INSERT                  ih n s er t
+DELETE                  d ih l iy t
+HOME                    hh ow m
+END                     eh n d
+
+% LOCK_KEYWORD
+LOCK                    l aa k
+
+% PAGE_KEYWORD
+PAGE                    p ey jh
+
+% PRESS_KEYWORD
+PRESS                   p r eh s
+
+% SHIFT_KEYWORD
+SHIFT                   sh ih f t
+
+% TAB_KEYWORD
+TAB                     t ae b
+TABULAR                 t ae b y ah l er
+TABULATE                t ae b y ah l ey t
+
+% TERMINAL_COMMANDS
+ARGUMENT                aa r g y ah m ah n t
+COPY                    k aa p iy
+CD                      s iy d iy
+CLEAR                   k l ih r
+DIRECTORY               d er eh k t er iy
+DIRECTORY(4)            d ih r eh k t er iy
+ECHO                    eh k ow
+EXIT                    eh g z ih t
+FIND                    f ay n d
+GIT                     g ih t
+GLOBAL                  g l ow b ah l
+LESS                    l eh s
+LIST                    l ih s t
+MAN                     m ae n
+MOVE                    m uw v
+NANO                    n aa n ow
+NEW                     n uw
+PIPE                    p ay p
+PIPELINE                p ay p l ay n
+REMOVE                  r iy m uw v
+SILENCE                 s ay l ah n s
+STREAM                  s t r iy m
+SWITCH                  s w ih ch
+TAR                     t aa r
+ZIP                     z ih p
+LOCATE                  l ow k ey t
+
+% TERMINAL_KEYWORD
+TERMINAL                t er m ah n ah l
+
+% RELEASE_KEYWORD
+RELEASE                 r iy l iy s
+
+
+
+
+
+
+
+
+
+
+
